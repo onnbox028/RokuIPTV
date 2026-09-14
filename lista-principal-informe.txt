@@ -1,22 +1,23 @@
-Lista principal armada el 14/09/2026 15:40 en 17.2 min
-10104 canales entran de 31538 probados (39 de adultos), en 443 grupos
-Grupo mas grande: ('full', 1314)
+Lista principal armada el 14/09/2026 15:58 en 17.1 min
+10192 canales entran de 31649 probados (40 de adultos), en 450 grupos
+Grupo mas grande: ('full', 1313)
 
 fuente                                             probados  entran  pelis
-IPTV > mundo                                           5422    4303      0
-latam.m3u                                              2375    1721      1
-IPTV > full                                            1531    1315      0
-IPTV > multiplataformas                                1104     915      0
+IPTV > mundo                                           5422    4307      0
+latam.m3u                                              2375    1716      1
+IPTV > full                                            1531    1314      0
+IPTV > multiplataformas                                1104     911      0
 canales.m3u > TDTChannels ES (playlist)                 537     402      0
 IPTV > deporte del mundo                                362     362      0
-IPTV > deportes                                         457     158      0
-iPTV-Free-List_TV.m3u                                   220     146     27
+IPTV > deportes                                         457     157      0
+iPTV-Free-List_TV.m3u                                   220     145     27
 es_pluto.m3u                                            137     131      0
 IPTV > tv premium 2                                     103     102      0
 cl.m3u                                                  126     100      0
+lista.m3u                                               111      98      0
 IPTV > pluto tv                                          86      86      0
-IPTV > runtime/extreme                                  160      70      0
-IPTV > deportes prueba                                  196      57      0
+IPTV > runtime/extreme                                  160      67      0
+IPTV > deportes prueba                                  196      60      0
 IPTV > tv server 1                                      201      44      0
 canales.m3u                                             574      32      0
 IPTV > TV                                               354      25      0
@@ -24,8 +25,8 @@ IPTV_Latino_Maestra.m3u                                  20      19      0
 IPTV > EVENTOS                                          105      19      0
 IPTV > tv server 2                                      339      17      0
 IPTV > tv server 6                                       97      16      0
-playlist.txt                                            200      14      0
 IPTV > tv server 3                                       35      13      0
+playlist.txt                                            200      12      0
 IPTV > tv server 7                                       70       9      0
 IPTV > tv server 4                                      156       8      0
 IPTV > cable argentina                                  276       6      0
@@ -47,25 +48,25 @@ IPTV > pelisGO                                           24       0      0
 IPTV > cinecalidad                                       31       0      0
 IPTV > pelis ok.ru                                       45       0      0
 IPTV > 4K                                                 7       0      0
-IPTV > PELIS                                            882       0    796
-IPTV > SAGAS                                            411       0    366
-IPTV > PELIS DEL RECUERDO                               525       0    328
+IPTV > PELIS                                            882       0    797
+IPTV > SAGAS                                            411       0    364
+IPTV > PELIS DEL RECUERDO                               525       0    326
 IPTV > NOport                                           132       0      0
 
 Por que no entran los demas:
-  14294  servidor caido: se dejo de probar
-   1091  el servidor contesto 403
-    925  el servidor contesto 404
+  14292  servidor caido: se dejo de probar
+   1089  el servidor contesto 403
+    926  el servidor contesto 404
     589  el servidor contesto 444
-    433  tiempo agotado
+    442  tiempo agotado
+    353  no es video
     338  sin conexion ([Errno 11001] getaddrinfo failed)
-    306  no es video
-    229  MPEG-TS continuo: el Roku no lo reproduce
-    193  el servidor contesto 401
-    177  sin conexion (timed out)
-    165  variante: tiempo agotado
-    151  sin conexion ([SSL: CERTIFICATE_VERIFY_FAILED] certifi)
-    124  el servidor contesto 503
+    241  MPEG-TS continuo: el Roku no lo reproduce
+    192  el servidor contesto 401
+    181  sin conexion (timed out)
+    163  variante: tiempo agotado
+    150  sin conexion ([SSL: CERTIFICATE_VERIFY_FAILED] certifi)
+    105  el servidor contesto 503
     102  el servidor contesto 405
      89  error de conexion
 
