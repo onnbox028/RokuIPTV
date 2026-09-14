@@ -1,32 +1,32 @@
-Lista principal armada el 14/09/2026 15:58 en 17.1 min
-10192 canales entran de 31649 probados (40 de adultos), en 450 grupos
-Grupo mas grande: ('full', 1313)
+Lista principal armada el 14/09/2026 16:41 en 16.9 min
+10211 canales entran de 31649 probados (39 de adultos), en 447 grupos
+Grupo mas grande: ('full', 1318)
 
 fuente                                             probados  entran  pelis
-IPTV > mundo                                           5422    4307      0
-latam.m3u                                              2375    1716      1
-IPTV > full                                            1531    1314      0
+IPTV > mundo                                           5422    4312      0
+latam.m3u                                              2375    1723      1
+IPTV > full                                            1531    1319      0
 IPTV > multiplataformas                                1104     911      0
 canales.m3u > TDTChannels ES (playlist)                 537     402      0
 IPTV > deporte del mundo                                362     362      0
 IPTV > deportes                                         457     157      0
-iPTV-Free-List_TV.m3u                                   220     145     27
+iPTV-Free-List_TV.m3u                                   220     140     27
 es_pluto.m3u                                            137     131      0
 IPTV > tv premium 2                                     103     102      0
-cl.m3u                                                  126     100      0
-lista.m3u                                               111      98      0
+cl.m3u                                                  126      97      0
+lista.m3u                                               111      97      0
 IPTV > pluto tv                                          86      86      0
-IPTV > runtime/extreme                                  160      67      0
-IPTV > deportes prueba                                  196      60      0
+IPTV > runtime/extreme                                  160      74      0
+IPTV > deportes prueba                                  196      61      0
 IPTV > tv server 1                                      201      44      0
 canales.m3u                                             574      32      0
-IPTV > TV                                               354      25      0
+IPTV > TV                                               354      26      0
+IPTV > EVENTOS                                          105      20      0
 IPTV_Latino_Maestra.m3u                                  20      19      0
-IPTV > EVENTOS                                          105      19      0
 IPTV > tv server 2                                      339      17      0
 IPTV > tv server 6                                       97      16      0
+playlist.txt                                            200      13      0
 IPTV > tv server 3                                       35      13      0
-playlist.txt                                            200      12      0
 IPTV > tv server 7                                       70       9      0
 IPTV > tv server 4                                      156       8      0
 IPTV > cable argentina                                  276       6      0
@@ -48,27 +48,27 @@ IPTV > pelisGO                                           24       0      0
 IPTV > cinecalidad                                       31       0      0
 IPTV > pelis ok.ru                                       45       0      0
 IPTV > 4K                                                 7       0      0
-IPTV > PELIS                                            882       0    797
-IPTV > SAGAS                                            411       0    364
-IPTV > PELIS DEL RECUERDO                               525       0    326
+IPTV > PELIS                                            882       0    786
+IPTV > SAGAS                                            411       0    366
+IPTV > PELIS DEL RECUERDO                               525       0    328
 IPTV > NOport                                           132       0      0
 
 Por que no entran los demas:
-  14292  servidor caido: se dejo de probar
+  14293  servidor caido: se dejo de probar
    1089  el servidor contesto 403
-    926  el servidor contesto 404
+    925  el servidor contesto 404
     589  el servidor contesto 444
-    442  tiempo agotado
-    353  no es video
-    338  sin conexion ([Errno 11001] getaddrinfo failed)
-    241  MPEG-TS continuo: el Roku no lo reproduce
-    192  el servidor contesto 401
-    181  sin conexion (timed out)
-    163  variante: tiempo agotado
-    150  sin conexion ([SSL: CERTIFICATE_VERIFY_FAILED] certifi)
-    105  el servidor contesto 503
+    459  tiempo agotado
+    339  sin conexion ([Errno 11001] getaddrinfo failed)
+    331  no es video
+    237  MPEG-TS continuo: el Roku no lo reproduce
+    193  el servidor contesto 401
+    186  sin conexion (timed out)
+    161  variante: tiempo agotado
+    152  sin conexion ([SSL: CERTIFICATE_VERIFY_FAILED] certifi)
+    117  el servidor contesto 503
     102  el servidor contesto 405
-     89  error de conexion
+     87  error de conexion
 
 Listas que no se pudieron bajar:
   https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_CL.m3u: HTTP Error 404: Not Found
