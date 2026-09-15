@@ -1,57 +1,59 @@
-Lista principal armada el 14/09/2026 16:41 en 16.9 min
-10211 canales entran de 31649 probados (39 de adultos), en 447 grupos
-Grupo mas grande: ('full', 1318)
+Lista principal armada el 14/09/2026 20:57 en 0.0 min (con la prueba guardada)
+9218 canales de 31649 probados (38 de adultos), en 447 grupos
+Repetidos unidos: 993 enlaces del mismo canal en un mismo grupo; 724 canales tienen fuentes alternativas
+Mismo nombre en grupos distintos (no se unen): 1265
+Grupo mas grande: ('full', 865)
 
-fuente                                             probados  entran  pelis
-IPTV > mundo                                           5422    4312      0
-latam.m3u                                              2375    1723      1
-IPTV > full                                            1531    1319      0
-IPTV > multiplataformas                                1104     911      0
-canales.m3u > TDTChannels ES (playlist)                 537     402      0
-IPTV > deporte del mundo                                362     362      0
-IPTV > deportes                                         457     157      0
-iPTV-Free-List_TV.m3u                                   220     140     27
-es_pluto.m3u                                            137     131      0
-IPTV > tv premium 2                                     103     102      0
-cl.m3u                                                  126      97      0
-lista.m3u                                               111      97      0
-IPTV > pluto tv                                          86      86      0
-IPTV > runtime/extreme                                  160      74      0
-IPTV > deportes prueba                                  196      61      0
-IPTV > tv server 1                                      201      44      0
-canales.m3u                                             574      32      0
-IPTV > TV                                               354      26      0
-IPTV > EVENTOS                                          105      20      0
-IPTV_Latino_Maestra.m3u                                  20      19      0
-IPTV > tv server 2                                      339      17      0
-IPTV > tv server 6                                       97      16      0
-playlist.txt                                            200      13      0
-IPTV > tv server 3                                       35      13      0
-IPTV > tv server 7                                       70       9      0
-IPTV > tv server 4                                      156       8      0
-IPTV > cable argentina                                  276       6      0
-us.m3u                                                    4       4      0
-IPTV > tv premium 1                                      23       4      0
-IPTV > tv server 5                                       36       3      0
-mx.m3u                                                    1       1      0
-IPTV > argentina y mas                                  254       1     21
-IPTV > argentina prueba                                  35       1      0
-LISTA%20EXCLUSIVA.m3u                                    84       0      0
-IPTVAlves4.M3U                                           35       0      0
-Pluto%20tv                                               95       0      0
-VIP                                                     166       0      0
-24.7                                                    185       0      0
-VIP619.txt                                            13139       0      0
-IPTV > MARATON SERIES                                    63       0      0
-IPTV > 24/7                                             118       0      0
-IPTV > pelisGO                                           24       0      0
-IPTV > cinecalidad                                       31       0      0
-IPTV > pelis ok.ru                                       45       0      0
-IPTV > 4K                                                 7       0      0
-IPTV > PELIS                                            882       0    786
-IPTV > SAGAS                                            411       0    366
-IPTV > PELIS DEL RECUERDO                               525       0    328
-IPTV > NOport                                           132       0      0
+fuente                                             probados funcionan  pelis
+IPTV > mundo                                           5422      4312      0
+latam.m3u                                              2375      1723      1
+IPTV > full                                            1531      1319      0
+IPTV > multiplataformas                                1104       911      0
+canales.m3u > TDTChannels ES (playlist)                 537       402      0
+IPTV > deporte del mundo                                362       362      0
+IPTV > deportes                                         457       157      0
+iPTV-Free-List_TV.m3u                                   220       140     27
+es_pluto.m3u                                            137       131      0
+IPTV > tv premium 2                                     103       102      0
+cl.m3u                                                  126        97      0
+lista.m3u                                               111        97      0
+IPTV > pluto tv                                          86        86      0
+IPTV > runtime/extreme                                  160        74      0
+IPTV > deportes prueba                                  196        61      0
+IPTV > tv server 1                                      201        44      0
+canales.m3u                                             574        32      0
+IPTV > TV                                               354        26      0
+IPTV > EVENTOS                                          105        20      0
+IPTV_Latino_Maestra.m3u                                  20        19      0
+IPTV > tv server 2                                      339        17      0
+IPTV > tv server 6                                       97        16      0
+playlist.txt                                            200        13      0
+IPTV > tv server 3                                       35        13      0
+IPTV > tv server 7                                       70         9      0
+IPTV > tv server 4                                      156         8      0
+IPTV > cable argentina                                  276         6      0
+us.m3u                                                    4         4      0
+IPTV > tv premium 1                                      23         4      0
+IPTV > tv server 5                                       36         3      0
+mx.m3u                                                    1         1      0
+IPTV > argentina y mas                                  254         1     21
+IPTV > argentina prueba                                  35         1      0
+LISTA%20EXCLUSIVA.m3u                                    84         0      0
+IPTVAlves4.M3U                                           35         0      0
+Pluto%20tv                                               95         0      0
+VIP                                                     166         0      0
+24.7                                                    185         0      0
+VIP619.txt                                            13139         0      0
+IPTV > MARATON SERIES                                    63         0      0
+IPTV > 24/7                                             118         0      0
+IPTV > pelisGO                                           24         0      0
+IPTV > cinecalidad                                       31         0      0
+IPTV > pelis ok.ru                                       45         0      0
+IPTV > 4K                                                 7         0      0
+IPTV > PELIS                                            882         0    786
+IPTV > SAGAS                                            411         0    366
+IPTV > PELIS DEL RECUERDO                               525         0    328
+IPTV > NOport                                           132         0      0
 
 Por que no entran los demas:
   14293  servidor caido: se dejo de probar
